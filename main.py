@@ -20,4 +20,4 @@ if __name__ == "__main__":
 
     metrics = evaluate_model(model, test_df)
 
-    print/(metrics)
+    print(metrics)
