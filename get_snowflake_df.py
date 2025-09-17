@@ -8,7 +8,7 @@ def get_snowpark_session() -> Session:
         "user": "<user>",
         "password": "<pass>",
         "role": "<role>",
-        "warehouse": ",compute_wh>",
+        "warehouse": "<compute_wh>",
         # "database": "<database>",
         # "schema": "<schema>"
     }
